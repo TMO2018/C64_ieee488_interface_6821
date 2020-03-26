@@ -1,0 +1,7 @@
+U1 : 6821 or 6321 (DIL40 15.24mm)
+U2 : SN74LS245 (DIL20 7.62mm)
+U3 : 4069 or SN7406 (DIL14 7.62mm)
+C1,C2,C3 : capacitor ceramic 100nF SMD 1206
+C4 : capacitor electrolyt radial 10uF 16V D5.0 RM2.5
+SW2 : push button print 6mm
+J3 : pin header 2x12 straight RM2.54
